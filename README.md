@@ -1,2 +1,0 @@
-# LenZ
-nothing special
